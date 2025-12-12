@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/urbio-ecology/urbio-ecology.r-universe.dev
 	branch = HEAD
+[submodule "urbioconnect"]
+	path = urbioconnect
+	url = https://github.com/urbio-ecology/urbioconnect
